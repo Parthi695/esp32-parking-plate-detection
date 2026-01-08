@@ -1,8 +1,8 @@
-# Smart Parking Plate Detection System
+# Vchile Number Plate Detection System
 
 ## 📌 Project Description
 
-This project is a Computer Vision–based Smart Parking Monitoring System that performs:
+This project is a Computer Vision and embedded system – based number plate detection that performs:
 
 - Real-time vehicle detection  
 - Automatic number plate recognition  
